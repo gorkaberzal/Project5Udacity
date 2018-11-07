@@ -201,6 +201,8 @@ nav h1 a {
   right: 0;
   top: 80px;
   width: 50%;
+
+	z-index: 1000;
 }
 .inside #map {
   background-color: #ccc;
